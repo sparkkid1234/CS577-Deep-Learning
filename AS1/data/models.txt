@@ -1,0 +1,12 @@
+Please place these in the same folder as the jupyter notebooks in order for them to run!
+Task 1:
+- model (preferred as notebook uses this): https://drive.google.com/file/d/1P0Psw0Ivrn0HjZLGbOpOQqnSgJ5gZ0MD/view?usp=sharing
+- network weights: https://drive.google.com/file/d/1YVs0bYMYZRuhGsm8PhSCTIk6MOd7tz2b/view?usp=sharing
+
+Task 2:
+- model (preferred as notebook uses this): https://drive.google.com/open?id=1ctQe2m344xSAejKlrNblOqiHA3bc8xah
+- network weights: https://drive.google.com/open?id=15rHtAcZyibtyqhc7Z0efA5TravCCrS0_
+
+Task 3:
+- model (preferred as notebook uses this): https://drive.google.com/open?id=1f8iRMneql0Q1AqrdCKUl-Jw3e4qF3e21
+- network weights: https://drive.google.com/open?id=1i6nBrAW8f0314ksUBYmbDcaCiZrdcWEy

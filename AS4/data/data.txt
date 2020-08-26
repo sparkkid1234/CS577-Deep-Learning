@@ -1,0 +1,6 @@
+Task 1: https://download.microsoft.com/download/3/E/1/3E1C3F21-ECDB-4869-8368-6DEBA77B919F/kagglecatsanddogs_3367a.zip
+Task 2: 
++ pickled from https://www.cs.toronto.edu/~kriz/cifar.html
++ Or import from keras
+-> I tried both and the result is the exact same, so I went with importing from keras
+so that it's easier to run since you will not have to change the data directory

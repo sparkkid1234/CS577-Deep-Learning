@@ -1,0 +1,4 @@
+Base model helpers: https://towardsdatascience.com/style-transfer-styling-images-with-convolutional-neural-networks-7d215b58f461
+Extension model helpers:
+- https://github.com/misgod/fast-neural-style-keras
+- https://github.com/overflocat/fast-neural-style-keras

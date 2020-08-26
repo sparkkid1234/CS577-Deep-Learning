@@ -1,0 +1,3 @@
+task 1 data: keras import cifar10
+task 2 data: https://archive.ics.uci.edu/ml/machine-learning-databases/spambase/spambase.data
+task 3 data: http://archive.ics.uci.edu/ml/machine-learning-databases/communities/communities.data

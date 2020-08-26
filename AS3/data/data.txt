@@ -1,0 +1,2 @@
+Classification data: keras import cifar10
+Regression data: http://archive.ics.uci.edu/ml/machine-learning-databases/00381/

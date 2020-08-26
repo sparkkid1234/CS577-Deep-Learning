@@ -1,0 +1,2 @@
+data 1: https://archive.ics.uci.edu/ml/machine-learning-databases/iris/bezdekIris.data
+data 2: keras import cifar10
